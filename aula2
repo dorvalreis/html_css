@@ -1,0 +1,94 @@
+<html> 
+	<head>
+	<title> aula 2 HTML </title>
+	<link rel="stylesheet" href= "css/style.css">
+	<meta charset="UTF-8"/>
+	
+	
+	</head>
+
+
+<body> 	
+	<header> LOGO AQUI!!!</header>
+	<figure>			
+			<img src="foto.jpg" alt = Foto perfil/>		
+	</figure>
+		<figurecaption> Atualizado em  Agosto - 2017		</figurecaption> 
+		
+	
+		<nav> 
+			<ul type =" disc"> 
+				<li> Home</li>
+				<li> Experiências</li>
+				<li> Formação </li>
+				<li> Contato</li> 
+				<li> Dorva blog </li> 
+			</ul>
+		</nav>	
+	<section>
+		<article>
+				<hgroup>			
+					<h1> <strong>  Dorval D. A. Dos Reis  </strong> </H1>
+				
+					<H2>28 anos
+			Tels: 12-34134181 | 12-996004024 |e-mail:<em>dorvalreis@gmail.com</em> </h2>
+
+			<p> <a href="Dorval D.pdf" target = "_blank">Baixe o CV em PDF!</a> </p> 
+			
+						<h3>Resumo das Experiências:</h3>
+					
+			
+								<h4> *  Liderança. </h4> 
+<p>De equipes de suporte de TI , planejando atividades para manutenção de serviços de TI tanto corretiva, Preventiva e Preditiva;<br/>
+extratificando Indicadores de performance, qualidade, conformidade, valor. </p>
+
+ <p>* Suporte </p>
+<p>> Atuação em segundo e terceiro nível de suporte em Hardware, e sistemas. </p>
+ <p>> Equipamentos e sistemas de automação comercial</p> 
+ <p>> Redes LAN WLAN </p>
+ <p>> Sistemas Operacionais da Família windows Server em servidores. </p>
+ <p>> Virtualização ( Hyper-v e VMware)</p>
+ <p>> TEF e TEF IP</p>
+
+								<h4> * Implantação  </h4>
+							
+<p> > Sistemas de gerenciamento de incidentes e inventário de tecnologia </p>
+<p>  > Sistemas comerciais</p>
+ <p> > Automação comercial e integração com sistemas fiscais. </p>
+ <p> ><strong> ERP</strong></p> 
+  <p>><strong>REP</strong> e sistemas de controle de Folha de ponto e folha de pagamento</p>
+ <p> > E-learning através da plataforma Moodle</p>
+ <p> > VPN com link via Rádio utilizando tecnologias UBIQUITI direcionais. </p>
+ <p> > TEF - IP</p> 
+ <p> > Coletores de dados</p> 
+ <p> > Impressoras de código de barra integrada a sistemas</p>
+ <p> > Adequação a metodologia <strong> <em> ITIL </em> </strong>. </p> 
+ <br> </br> 
+ 
+							<h4>  * Treinamentos ( in loco / remoto) </h4> 
+<p> <strong>  > ERP </strong>  </p> 
+ <p>> Automação comercial </p> 
+ <p> > Equipamentos de hardware </p> 
+ <br> </br> 
+ 
+					<p> <h4> * Documentação </h4> </p> 
+ <p> > Análise de Requisitos </p> 
+ <p> > Manuais de procedimentos </p> 
+ <p> > Manuais técnicos </p>
+ <p> > videos tutoriais (Screen Cast) </p> 
+ 
+		</article>
+						</h4> 	
+						
+						<aside> 
+						
+						</aside>
+	
+	
+	<footer> Copyright </footer> 
+	
+	</section>				
+				
+</body>
+
+</html>
